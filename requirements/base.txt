@@ -1,0 +1,10 @@
+coverage
+flake8
+mock
+pydocstyle
+pytest-pep8
+pytest-cov
+Sphinx
+pyserial
+crcmod
+statsd

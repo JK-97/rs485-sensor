@@ -1,0 +1,6 @@
+# Production specific requirements go here (they should not vary from the base
+# requirements)
+-r base.txt
+pyserial
+crcmod
+statsd
