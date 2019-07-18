@@ -8,7 +8,7 @@ pip3 install -r requirements.txt
 ### setting
 
     {
-        "device_id":{
+        "device_list":{
             "02":0,
             "03":1,
             "04":2
